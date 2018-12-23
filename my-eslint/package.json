@@ -1,0 +1,14 @@
+{
+  "name": "myeslint",
+  "version": "1.0.0",
+  "description": "Eslint package in node web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jysan Aziz",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.10.0"
+  }
+}
